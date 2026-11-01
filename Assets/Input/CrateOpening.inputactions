@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "CrateOpening",
+    "maps": [
+        {
+            "name": "Crate",
+            "id": "62105a1b-c8c0-4b56-9edb-f5e368feb84b",
+            "actions": [
+                {
+                    "name": "OpenCrate",
+                    "type": "Button",
+                    "id": "47ec2169-54b6-4475-ad9a-c07ac7292687",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4e843ce5-1751-4260-a635-c6a692bba0aa",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenCrate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
