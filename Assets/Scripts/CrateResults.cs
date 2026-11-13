@@ -1,3 +1,4 @@
+[System.Serializable]
 public class CrateResults 
 {
      public Item item;

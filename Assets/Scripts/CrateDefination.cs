@@ -31,5 +31,6 @@ public class CrateDefination : ScriptableObject
 {
 
     [SerializeField] public List<RarityEntry> rarities;
+    [SerializeField] public int crateValue;
 
 }

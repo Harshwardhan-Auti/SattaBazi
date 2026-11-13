@@ -18,22 +18,30 @@ MonoBehaviour:
     - itemName: Elon Musk
     - itemName: Rakhi Sawant
     - itemName: Bald Sapra
-    weight: 60
+    weight: 600
   - rarityName: Rare
     items:
     - itemName: Raju Talwar
     - itemName: Dharmendra Pradhan
     - itemName: Samay Raina
-    weight: 28
+    - itemName: True Love
+    weight: 270
   - rarityName: Epic
     items:
     - itemName: Resigned Dharmendra Pradhan
     - itemName: Deva Bhau
     - itemName: Sunny Dancer
-    weight: 11
+    weight: 100
   - rarityName: Legendry
     items:
     - itemName: Singer Modi ju
     - itemName: Venoumis Elvish Yadav
     - itemName: Masseur Scout
-    weight: 1
+    weight: 25
+  - rarityName: Mythical
+    items:
+    - itemName: Artist Adolf Hitler
+    - itemName: 'Acche din '
+    - itemName: Touching grass
+    weight: 5
+  crateValue: 200

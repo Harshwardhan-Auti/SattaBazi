@@ -5,8 +5,11 @@ using UnityEngine;
 
 public class CrateOpener 
 {
+    
     public CrateResults OpenCrate (CrateDefination crate)
     {
+
+        
         int totalSum = 0;
         foreach (RarityEntry crateBox in crate.rarities )
         {
