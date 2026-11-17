@@ -16,7 +16,7 @@ public class PlayerInventory : MonoBehaviour
         foreach (Transform child in content)
         {
 
-            Destroy(child.gameObject);
+            Destroy(child.gameObject);  
             
             
         }

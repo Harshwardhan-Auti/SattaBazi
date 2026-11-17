@@ -11,8 +11,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private List<CrateResults> playerItems = new List<CrateResults>();
     public IReadOnlyList<CrateResults> itemsWon => playerItems;
 
-    [Header("GameState")]
-    public OpenInventory openInventoryScript;
+   
     
 
    
